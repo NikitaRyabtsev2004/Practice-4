@@ -1,0 +1,14 @@
+
+{
+    "users": [
+      { "id": "1", "name": "Kirill", "avatarUrl": "https://via.placeholder.com/50" },
+      { "id": "2", "name": "Alice", "avatarUrl": "https://via.placeholder.com/75" },
+      { "id": "3", "name": "Islam", "avatarUrl": "https://via.placeholder.com/100" },
+      { "id": "4", "name": "Egor", "avatarUrl": "https://via.placeholder.com/25" },
+      { "id": "5", "name": "Kurama", "avatarUrl": "https://via.placeholder.com/50" },
+      { "id": "6", "name": "Aladin", "avatarUrl": "https://via.placeholder.com/50" },
+      { "id": "7", "name": "Australia", "avatarUrl": "https://via.placeholder.com/50" },
+      { "id": "8", "name": "Eggman", "avatarUrl": "http://localhost:3000/public/eggman.jpg" }
+    ]
+  }
+  
